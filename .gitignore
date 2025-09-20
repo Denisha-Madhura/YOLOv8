@@ -5,3 +5,4 @@ yolov8n.pt
 yolov8n-seg.pt
 yolov8m-pose.pt
 email_settings.py
+yolov8m.pt
